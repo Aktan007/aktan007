@@ -1,8 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aktan
 
-## A little about myself
-
-I'm currently a novice programmer. I wrote the first code back in the year 2021. It turned out quite well the first time and I really liked the layout of the site. Thus, I realized that HTML and CSS are interesting for novice programmers. In the future, I am going to develop in the field of programming and not stop in the future.
+## I'm a beginner programmer
 
 - 🌍  I'm based in Moscow
 - ✉️  You can contact me at [dagon.samagon@gmail.com](mailto:dagon.samagon@gmail.com)
